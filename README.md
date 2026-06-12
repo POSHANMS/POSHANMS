@@ -10,7 +10,7 @@ I build production-ready systems with clean architecture — from JWT-authentica
 
 ## 🚀 Featured Projects
 
-### 🔍 [FindIt — Campus Lost & Found Portal](https://campus-lost-and-found-portal.vercel.app)
+### 🔍 [FindIt — Campus Lost & Found Portal](https://findit-portal.vercel.app/) &nbsp;|&nbsp; [Frontend](https://github.com/POSHANMS/lost-found-frontend) &nbsp;|&nbsp; [Backend](https://github.com/POSHANMS/lost-found-backend)
 > React 18 • Flask • PostgreSQL • Redis • JWT • Socket.io • Leaflet.js • Docker • Cloudinary • Supabase
 
 Full-stack portal with a React + Vite frontend (Tailwind CSS, Framer Motion, Leaflet.js GPS map) and a Flask REST API backend. Features JWT authentication, Redis caching, real-time Socket.io match notifications, and Cloudinary image uploads. Docker-composed and deployed on Vercel.
@@ -24,31 +24,38 @@ ML-based symptom checker returning structured JSON across 130+ disease categorie
 
 ---
 
-### 📝 [NoteFlash — Notes Web App](https://noteflash-production.up.railway.app) &nbsp;|&nbsp; [GitHub](https://github.com/POSHANMS/NoteFlash)
+### 📝 [NoteFlash — Notes Web App](https://noteflash.up.railway.app/) &nbsp;|&nbsp; [GitHub](https://github.com/POSHANMS/notes-keeper-app)
 > Python • Flask • MySQL • Bootstrap 5 • Quill.js • JWT
 
 Google Keep-inspired full-stack notes app with JWT session management, per-user note isolation, Flask-SQLAlchemy ORM, and rich text editing via Quill.js. Responsive masonry layout with dark mode, pinning, and color-coding. Deployed on Railway.
 
 ---
 
-### 🏠 [Hostel Management System](https://github.com/POSHANMS/Hostel-Management-System)
+### 🏠 [Hostel Management System](https://github.com/POSHANMS/hostel-management-system)
 > Node.js • Express.js • MySQL • HTML/CSS/JS
 
 Full-stack platform with separate admin and student portals, role-based access control, and 15+ RESTful API endpoints for registration, room assignment, fee recording, and complaint tracking. Normalized MySQL schema with 5+ related tables.
 
 ---
 
-### 📊 [Trading Bot — Binance Futures Testnet](https://github.com/POSHANMS/Trading-Bot)
+### 📊 [Trading Bot — Binance Futures Testnet](https://github.com/POSHANMS/trading-bot)
 > Python • Flask • REST API • HMAC-SHA256
 
 Automated trading bot supporting Market, Limit, Stop, and TWAP orders with HMAC-SHA256 signed API calls. Includes a CLI + Web UI and structured daily logs.
 
 ---
 
-### 💪 [Body Forge — Workout Tracker](https://github.com/POSHANMS/BodyForge)
+### 💪 [Body Forge — Workout Tracker](https://github.com/POSHANMS/body-forge)
 > HTML • CSS • JavaScript • Android (WebView)
 
 Circuit timers, streak tracking, and 14-day history. Converted to Android APK and deployed on a physical device.
+
+---
+
+### ✅ [Todo App](https://github.com/POSHANMS/todo-app-flask)
+> Python • Flask • MySQL • Bootstrap 5
+
+Full-stack task manager with user authentication, per-user task isolation, SQLAlchemy ORM, and real-time UI feedback.
 
 ---
 
