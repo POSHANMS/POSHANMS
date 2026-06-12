@@ -134,7 +134,7 @@ Full-stack task manager with user authentication, per-user task isolation, SQLAl
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=POSHANMS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=POSHANMS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
 ![](https://streak-stats.demolab.com/?user=POSHANMS&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=POSHANMS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
